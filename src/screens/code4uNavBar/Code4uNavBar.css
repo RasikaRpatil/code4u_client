@@ -1,0 +1,39 @@
+.mNavLink {
+    padding-top: 10px !important;
+    padding-bottom: 0px;
+    padding: 10px 20px;
+    font-size: 12pt;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-family: "Montserrat", sans-serif;
+    color:white;
+  }
+
+  .mNavLink:hover{
+    border-bottom: 3px solid #4885ed;
+  }
+
+
+
+
+  .Name{
+    font-family: serif;
+    font-size: 130%;
+    font-style: italic;
+    /* color:#db3236; */
+    /* border-bottom: 2px solid #3cba54; */
+    border-bottom: 3px solid #4885ed;
+    border-top: 3px solid #4885ed;
+    border-radius: 20%;
+
+  
+  }
+
+  .NameFour{
+    font-family: serif;
+    font-size: 150%;
+    font-style: italic;
+    color:#f4c20d;
+    
+    
+  }

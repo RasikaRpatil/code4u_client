@@ -1,0 +1,20 @@
+.sApp {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 3ex;
+  }
+  .sTitle{
+    text-align: center;
+  }
+  .simg {
+    width: 250px;
+    height: 150px;
+  }
+  .s-box {
+    background: white none repeat scroll 0 0;
+    color: #000;
+    padding: 20px;
+    text-align: center;
+    width: 250px;
+    height: 80px;
+  }

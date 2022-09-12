@@ -1,0 +1,9 @@
+.imgabout {
+    height: 350px;
+    width: 100%;
+    float: right;
+  }
+  .aboutcontainer {
+    display: flex;
+    flex-wrap: wrap;
+  }

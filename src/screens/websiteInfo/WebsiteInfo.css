@@ -1,0 +1,21 @@
+.aboutcontainer {
+  display: flex;
+  flex-wrap: wrap;
+}
+.counter {
+  background: #222 none repeat scroll 0 0;
+  color: #fff;
+  padding: 100px 0;
+  text-align: center;
+}
+.nav-icons {
+  color:white;
+  position: relative;
+  height: 30px;
+  width: 100%;
+}
+
+.animate__bounceInUp{
+  animation-duration: 1000ms;
+  animation-delay: 1s;
+  }

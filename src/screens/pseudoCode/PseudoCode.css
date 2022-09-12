@@ -1,0 +1,13 @@
+.aboutcontainer {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .chbtn {
+    margin-top: 5%;
+    position: relative;
+  }
+  .imgpseudoCode {
+    height: 500px;
+    width: 110%;
+    float: right;
+  }
