@@ -1,70 +1,72 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Code4U- Technical Blogging
 
-## Available Scripts
 
-In the project directory, you can run:
 
-### `npm start`
+Code4U is a website which is made for those who wants to join the IT industry. This website provides some technical blogs some coding problem statements then pseudo codes and some study materials like books, technical que & ans, notes pdf. This website creates simplified and interactive learning experiences. Learning programming is should be easy to understand and available for everyone, everywhere.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+## Installation
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Install Code4U-technical blogging with npm
 
-### `npm run build`
+```bash
+  npm install 
+```
+   ## ScreenShots
+   ![home](https://user-images.githubusercontent.com/113360387/189684434-dd0b602e-5186-42ca-8fc6-18df07620b9d.jpg)
+   
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![about us](https://user-images.githubusercontent.com/113360387/189684600-839eea4c-b59c-487f-8ee3-e476bbf68aa6.jpg)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![blogs](https://user-images.githubusercontent.com/113360387/189684746-d0af8726-ff33-4916-9b5d-52ca268e49f7.jpg)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![Blog list](https://user-images.githubusercontent.com/113360387/189684794-c7dffc4d-58db-4191-94ee-449e386d7826.jpg)
 
-### `npm run eject`
+![blog details](https://user-images.githubusercontent.com/113360387/189684825-d977aa61-bda7-48eb-b1af-4a7310a6e99f.jpg)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![pseudo code](https://user-images.githubusercontent.com/113360387/189685055-32b7e14a-0f02-4681-a5d4-2d6076e2ef23.jpg)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+![bookslist](https://user-images.githubusercontent.com/113360387/189685473-f24614f5-47f7-4c4e-a7fa-96db5d114ea1.jpg)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+![pseudo codes example](https://user-images.githubusercontent.com/113360387/189685109-4c31f88c-8754-41a9-81c7-fbed8f7f1b21.jpg)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+![study material](https://user-images.githubusercontent.com/113360387/189685170-e05ffa8d-fc56-459b-b303-7553586be3ce.jpg)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+![noteslist](https://user-images.githubusercontent.com/113360387/189685665-19db92c7-57f0-4cf6-ab70-af5923bba956.jpg)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+![website info](https://user-images.githubusercontent.com/113360387/189685726-cceda3e3-9729-4ff4-bf49-28046c8a9baf.jpg)
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
+## Tech Stack
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+**Client:** React, Redux, html , css
 
-### Advanced Configuration
+**Server:**  Express
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+**Database:** Mongodb 
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
+## 🚀 About Me
+I'm a full stack developer...
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## 🛠 Skills
+Javascript, HTML, CSS , React , Mongodb , SQL...
+
+
+## Authors
+
+- [@RasikaRpatil](https://github.com/RasikaRpatil)
+
+
+
+
+
+
